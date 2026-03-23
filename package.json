@@ -1,0 +1,40 @@
+{
+  "name": "linkshrink-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for LinkShrink (linkshrink.dev) — shorten URLs, get analytics, and unshorten links from Claude, Cursor, and any MCP-compatible AI assistant. No API key required.",
+  "main": "dist/index.js",
+  "bin": {
+    "linkshrink-mcp": "dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "lint": "tsc --noEmit"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "linkshrink",
+    "url-shortener",
+    "ai",
+    "claude",
+    "softvoyagers"
+  ],
+  "license": "MIT",
+  "author": "SoftVoyagers",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/softvoyagers/linkshrink-api-mcp"
+  },
+  "homepage": "https://linkshrink.dev",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.26.0",
+    "zod": "^3.25.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.0",
+    "@types/node": "^22.0.0"
+  },
+  "engines": {
+    "node": ">=22.0.0"
+  }
+}
