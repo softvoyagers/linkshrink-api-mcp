@@ -1,6 +1,6 @@
 {
   "name": "linkshrink-mcp",
-  "version": "1.0.0",
+  "version": "1.3.0",
   "description": "MCP server for LinkShrink (linkshrink.dev) — shorten URLs, get analytics, and unshorten links from Claude, Cursor, and any MCP-compatible AI assistant. No API key required.",
   "main": "dist/index.js",
   "bin": {

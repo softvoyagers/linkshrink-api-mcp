@@ -7,7 +7,7 @@ const API_BASE = process.env.LINKSHRINK_API_URL || 'https://linkshrink.dev';
 export function createMcpServer(): McpServer {
   const server = new McpServer({
     name: 'linkshrink-mcp',
-    version: '1.0.0',
+    version: '1.3.0',
   });
 
   server.tool(
