@@ -1,0 +1,20 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.dpozimski/linkshrink",
+  "description": "MCP server for LinkShrink — shorten URLs, create custom aliases, track click analytics, and unshorten links from any MCP-compatible AI assistant. Free, no API key required.",
+  "repository": {
+    "url": "https://github.com/softvoyagers/linkshrink-api-mcp",
+    "source": "github"
+  },
+  "version": "1.3.0",
+  "packages": [
+    {
+      "registryType": "npm",
+      "identifier": "linkshrink-mcp",
+      "version": "1.3.0",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ]
+}
