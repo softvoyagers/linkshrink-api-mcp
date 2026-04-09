@@ -74,9 +74,10 @@ LinkShrink MCP is part of the [SoftVoyagers](https://github.com/softvoyagers) po
 | **PDFSpark** | HTML/URL to PDF conversion API | [pdfspark.dev](https://pdfspark.dev) |
 | **OGForge** | Open Graph image generator API | [ogforge.dev](https://ogforge.dev) |
 | **LinkShrink** | Privacy-first URL shortener API | [linkshrink.dev](https://linkshrink.dev) |
-| **Faktuj** | Polish invoice generator | [faktuj.pl](https://faktuj.pl) |
-| **QRMint** | Styled QR code generator API | [qrmint.dev](https://qrmint.dev) |
+| **Faktuj** | Polish invoice generator | [faktuj.pl](https://faktuj.pl) · [KSeF](https://faktuj.pl/ksef) |
+| **QRMint** | Styled QR code generator API | [qrmint.dev](https://qrmint.dev) · [Docs](https://qrmint.dev/docs) · [QR from URL](https://qrmint.dev/qr-code-url) |
 | **PageDrop** | Instant HTML hosting API | [pagedrop.dev](https://pagedrop.dev) |
+| **PismoSzyteNaMiarę** | Document generator for Polish legal templates | [pismoszytenamiare.pl](https://pismoszytenamiare.pl) · [Umowa kupna-sprzedaży](https://pismoszytenamiare.pl/umowa-kupna-sprzedazy) |
 
 ## License
 
